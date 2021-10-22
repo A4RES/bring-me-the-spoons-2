@@ -30,8 +30,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "adyn",
+    "path": "folders/Objects/adyn.yy",
   },
   "resourceVersion": "1.0",
   "name": "o_condiment_man",
