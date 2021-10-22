@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"s_spoon_man","path":"sprites/s_spoon_man/s_spoon_man.yy",},"order":0,},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},"order":0,},
     {"id":{"name":"o_condiment_man","path":"objects/o_condiment_man/o_condiment_man.yy",},"order":0,},
     {"id":{"name":"s_harrie","path":"sprites/s_harrie/s_harrie.yy",},"order":2,},
@@ -53,7 +54,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2.3.4.580",
   },
   "resourceVersion": "1.4",
   "name": "bring-me-the-spoons",
