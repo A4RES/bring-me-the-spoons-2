@@ -73,8 +73,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "adyn",
+    "path": "folders/Sprites/adyn.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_condiment_man",
