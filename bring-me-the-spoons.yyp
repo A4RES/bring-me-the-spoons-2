@@ -6,10 +6,19 @@
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},"order":0,},
     {"id":{"name":"o_ketchup","path":"objects/o_ketchup/o_ketchup.yy",},"order":1,},
     {"id":{"name":"o_condiment_man","path":"objects/o_condiment_man/o_condiment_man.yy",},"order":0,},
+<<<<<<< Updated upstream
     {"id":{"name":"a_pewpew","path":"sounds/a_pewpew/a_pewpew.yy",},"order":2,},
     {"id":{"name":"s_harrie","path":"sprites/s_harrie/s_harrie.yy",},"order":1,},
     {"id":{"name":"s_condiment_man","path":"sprites/s_condiment_man/s_condiment_man.yy",},"order":0,},
+<<<<<<< HEAD
     {"id":{"name":"shoot_ketchup_and_mustard","path":"scripts/shoot_ketchup_and_mustard/shoot_ketchup_and_mustard.yy",},"order":0,},
+=======
+=======
+    {"id":{"name":"s_harrie","path":"sprites/s_harrie/s_harrie.yy",},"order":2,},
+    {"id":{"name":"s_condiment_man","path":"sprites/s_condiment_man/s_condiment_man.yy",},"order":1,},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
+>>>>>>> Stashed changes
+>>>>>>> c056311b7d687c08b75708a44aa3ee53f42fe4aa
     {"id":{"name":"a_music","path":"sounds/a_music/a_music.yy",},"order":1,},
     {"id":{"name":"r_level_1","path":"rooms/r_level_1/r_level_1.yy",},"order":0,},
   ],
