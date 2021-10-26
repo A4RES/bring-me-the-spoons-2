@@ -22,5 +22,6 @@ if keyboard_check(vk_space){
 }
 
 if mouse_check_button(mb_left){
-	
+	shoot_ketchup_and_mustard()
+	audio_play_sound(a_pewpew,10,false)
 }
