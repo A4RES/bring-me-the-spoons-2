@@ -11,14 +11,20 @@
     {"id":{"name":"s_harrie","path":"sprites/s_harrie/s_harrie.yy",},"order":1,},
     {"id":{"name":"s_condiment_man","path":"sprites/s_condiment_man/s_condiment_man.yy",},"order":0,},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":{"name":"shoot_ketchup_and_mustard","path":"scripts/shoot_ketchup_and_mustard/shoot_ketchup_and_mustard.yy",},"order":0,},
 =======
+=======
+>>>>>>> parent of 38de009 (Revert "added hotdog and drip")
 =======
     {"id":{"name":"s_harrie","path":"sprites/s_harrie/s_harrie.yy",},"order":2,},
     {"id":{"name":"s_condiment_man","path":"sprites/s_condiment_man/s_condiment_man.yy",},"order":1,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 >>>>>>> c056311b7d687c08b75708a44aa3ee53f42fe4aa
+=======
+>>>>>>> parent of 38de009 (Revert "added hotdog and drip")
     {"id":{"name":"a_music","path":"sounds/a_music/a_music.yy",},"order":1,},
     {"id":{"name":"r_level_1","path":"rooms/r_level_1/r_level_1.yy",},"order":0,},
   ],
