@@ -1,19 +1,24 @@
 {
   "resources": [
-    {"id":{"name":"s_spoon_man","path":"sprites/s_spoon_man/s_spoon_man.yy",},"order":2,},
-    {"id":{"name":"s_ketchup","path":"sprites/s_ketchup/s_ketchup.yy",},"order":3,},
+    {"id":{"name":"s_spoon_man","path":"sprites/s_spoon_man/s_spoon_man.yy",},"order":0,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},"order":0,},
-    {"id":{"name":"o_ketchup","path":"objects/o_ketchup/o_ketchup.yy",},"order":1,},
     {"id":{"name":"o_condiment_man","path":"objects/o_condiment_man/o_condiment_man.yy",},"order":0,},
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 38de009 (Revert "added hotdog and drip")
 <<<<<<< Updated upstream
     {"id":{"name":"a_pewpew","path":"sounds/a_pewpew/a_pewpew.yy",},"order":2,},
     {"id":{"name":"s_harrie","path":"sprites/s_harrie/s_harrie.yy",},"order":1,},
     {"id":{"name":"s_condiment_man","path":"sprites/s_condiment_man/s_condiment_man.yy",},"order":0,},
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":{"name":"shoot_ketchup_and_mustard","path":"scripts/shoot_ketchup_and_mustard/shoot_ketchup_and_mustard.yy",},"order":0,},
 =======
+=======
+>>>>>>> parent of 38de009 (Revert "added hotdog and drip")
 =======
 >>>>>>> parent of 38de009 (Revert "added hotdog and drip")
 =======
@@ -22,7 +27,14 @@
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
 >>>>>>> Stashed changes
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> c056311b7d687c08b75708a44aa3ee53f42fe4aa
+=======
+>>>>>>> parent of 38de009 (Revert "added hotdog and drip")
+=======
+    {"id":{"name":"s_harrie","path":"sprites/s_harrie/s_harrie.yy",},"order":2,},
+    {"id":{"name":"s_condiment_man","path":"sprites/s_condiment_man/s_condiment_man.yy",},"order":1,},
+>>>>>>> parent of 0dfc3b7 (10/25)
 =======
 >>>>>>> parent of 38de009 (Revert "added hotdog and drip")
     {"id":{"name":"a_music","path":"sounds/a_music/a_music.yy",},"order":1,},
@@ -68,9 +80,6 @@
     {"folderPath":"folders/Objects/adyn.yy","order":1,"resourceVersion":"1.0","name":"adyn","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/ted.yy","order":2,"resourceVersion":"1.0","name":"ted","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/dominique.yy","order":3,"resourceVersion":"1.0","name":"dominique","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/adyn.yy","order":4,"resourceVersion":"1.0","name":"adyn","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/dominique.yy","order":5,"resourceVersion":"1.0","name":"dominique","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/ted.yy","order":6,"resourceVersion":"1.0","name":"ted","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
